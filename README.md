@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=0:0B0F19,50:111827,100:1E3A8A&height=200&section=header&text=Akshay%20Sharma&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Lead%20Member%20of%20Technical%20Staff%20%40%20Salesforce%20%20%E2%80%A2%20%20IEEE%20Senior%20Member&descSize=17&descAlignY=62&stroke=38BDF8&strokeWidth=1" width="100%" alt="Akshay Sharma" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:1E3A8A&height=200&section=header&text=Akshay%20Sharma&fontSize=44&fontColor=F8FAFC&fontAlignY=35&desc=Lead%20Member%20of%20Technical%20Staff%20%40%20Salesforce%20%20%E2%80%A2%20%20IEEE%20Senior%20Member&descSize=16&descColor=38BDF8&descAlignY=58" width="100%" alt="Akshay Sharma" />
 </div>
 
 <p align="center">
