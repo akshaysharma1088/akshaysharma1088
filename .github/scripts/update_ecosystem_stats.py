@@ -17,7 +17,7 @@ def fetch_downloads(pkg: str) -> int:
             return int(data.get("total_downloads", 0))
     else:
         req = urllib.request.Request(
-            f"https://pypistats.org/api/packages/{pkg}/overall?mirrors=true",
+            f"https://pypistats.org/api/packages/{pkg}/overall?mirrors=false",
             headers={"User-Agent": "GitHub-Actions-Stats"}
         )
         with urllib.request.urlopen(req, timeout=15) as resp:
@@ -39,7 +39,7 @@ def main():
     # 1. Shields.io Endpoint Schema for Combined Badge
     badge_payload = {
         "schemaVersion": 1,
-        "label": "Ecosystem Downloads (pipeverify + dataranger)",
+        "label": "downloads (DataRanger + pipeverify)",
         "message": f"{format_number(total)} ({total:,})",
         "color": "007EC6",
         "namedLogo": "pypi",
