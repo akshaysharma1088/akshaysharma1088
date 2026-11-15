@@ -5,6 +5,13 @@
 <h3 align="center">I build data platforms, and the checks that stop AI agents from quietly breaking them.</h3>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+    <img src="assets/stats-light.svg" width="760" alt="15+ years in data engineering · Salesforce · 2 tools on PyPI · IEEE Senior Member">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://akshaysharma1088.github.io"><img src="https://img.shields.io/badge/Website-akshaysharma1088.github.io-2563EB?style=flat-square" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/akshay-sharma-1088/"><img src="https://img.shields.io/badge/LinkedIn-akshay--sharma--1088-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=r3B6c_UAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
@@ -68,6 +75,18 @@ More research code: [fraudrag](https://github.com/akshaysharma1088/fraudrag) (kn
 - Technical Program Committee, TAIMMA 2027
 - Hackathon judge (RevolutionUC, LA Hacks and others), and mentor at the USC AI Hackathon and CodePath
 
+### 🌄 Beyond engineering
+
+Outside work, I travel with my family. In September 2026 we finished visiting all 64 US national
+parks, the last one at Acadia.
+
 ---
 
-<sub>Views here are my own.</sub>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-sharma-1088/">LinkedIn</a> ·
+  <a href="https://akshaysharma1088.github.io">Website</a> ·
+  <a href="https://sessionize.com/akshaysharma10/">Book a talk</a> ·
+  <a href="https://scholar.google.com/citations?hl=en&user=r3B6c_UAAAAJ">Google Scholar</a>
+  <br>
+  <sub>Views here are my own.</sub>
+</p>

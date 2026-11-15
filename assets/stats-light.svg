@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" width="100%" role="img" aria-label="15+ years in data engineering, Salesforce, two tools on PyPI, IEEE Senior Member">
+<rect x="1" y="1" width="898" height="94" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+<text x="112.5" y="44" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#0969DA">15+ years</text>
+<text x="112.5" y="68" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">data engineering</text>
+<line x1="225.0" y1="22" x2="225.0" y2="74" stroke="#D0D7DE"/>
+<text x="337.5" y="44" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#0969DA">Salesforce</text>
+<text x="337.5" y="68" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">customer data graphs</text>
+<line x1="450.0" y1="22" x2="450.0" y2="74" stroke="#D0D7DE"/>
+<text x="562.5" y="44" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#0969DA">2 tools on PyPI</text>
+<text x="562.5" y="68" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">DataRanger · pipeverify</text>
+<line x1="675.0" y1="22" x2="675.0" y2="74" stroke="#D0D7DE"/>
+<text x="787.5" y="44" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#0969DA">IEEE</text>
+<text x="787.5" y="68" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">Senior Member</text>
+</svg>
