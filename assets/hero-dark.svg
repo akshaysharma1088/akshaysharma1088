@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%">
+  <defs>
+    <linearGradient id="bg-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="accent-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="900" height="220" rx="14" fill="url(#bg-dark)" stroke="#334155" stroke-width="1.5" />
+
+  <!-- Subtle Right-Side Architecture Nodes Decoration -->
+  <circle cx="820" cy="60" r="45" fill="#1E293B" stroke="#38BDF8" stroke-width="1" opacity="0.35" />
+  <circle cx="760" cy="150" r="65" fill="#0F172A" stroke="#818CF8" stroke-width="1" opacity="0.35" />
+  <line x1="820" y1="60" x2="760" y2="150" stroke="#475569" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.5" />
+
+  <!-- Header & Role -->
+  <text x="45" y="70" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="34" font-weight="800" fill="#F8FAFC">Akshay Sharma</text>
+  <text x="45" y="106" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="17" font-weight="600" fill="url(#accent-dark)">Lead Member of Technical Staff @ Salesforce  •  IEEE Senior Member</text>
+  <text x="45" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" fill="#94A3B8">Autonomous Pipeline Verification & Repair (pipeverify → dataranger) | Enterprise Knowledge Graphs</text>
+
+  <!-- Pipeline Badges -->
+  <rect x="45" y="164" width="180" height="30" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-width="1.2" />
+  <text x="60" y="184" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12.5" font-weight="600" fill="#38BDF8">pip install pipeverify</text>
+
+  <text x="237" y="184" font-family="ui-monospace, SFMono-Regular, monospace" font-size="15" fill="#64748B">➔</text>
+
+  <rect x="260" y="164" width="180" height="30" rx="6" fill="#0F172A" stroke="#818CF8" stroke-width="1.2" />
+  <text x="275" y="184" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12.5" font-weight="600" fill="#818CF8">pip install dataranger</text>
+</svg>
