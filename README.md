@@ -77,8 +77,8 @@ More research code: [fraudrag](https://github.com/akshaysharma1088/fraudrag) (kn
 
 ### 🌄 Beyond engineering
 
-Outside work, I travel with my family. In September 2026 we finished visiting all 64 US national
-parks, the last one at Acadia.
+Outside work, I travel with my family. We have visited all 64 US national parks: the original 63
+by September 2026, finishing at Acadia, and the newest park a few weeks after it was designated.
 
 ---
 
