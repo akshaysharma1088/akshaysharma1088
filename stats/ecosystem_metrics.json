@@ -1,8 +1,8 @@
 {
-  "total_downloads": 6097,
-  "total_formatted": "6.1k",
+  "total_downloads": 2171,
+  "total_formatted": "2.2k",
   "packages": {
-    "dataranger": 3795,
-    "pipeverify": 2302
+    "dataranger": 1325,
+    "pipeverify": 846
   }
 }
