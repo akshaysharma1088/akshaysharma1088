@@ -65,6 +65,8 @@ More research code: [fraudrag](https://github.com/akshaysharma1088/fraudrag) (kn
 
 ### ✍️ Writing
 
+#3 [Top AI Writer on HackerNoon](https://hackernoon.com/c/ai/writers) (November 2026).
+
 - [Benchmarking Claude Haiku, Sonnet, and Opus on 64 Broken Data Pipelines](https://hackernoon.com/benchmarking-claude-haiku-sonnet-and-opus-on-64-broken-data-pipelines) (HackerNoon)
 - [How to Evaluate Snowflake Cortex Embedding Models for Enterprise Search](https://hackernoon.com/how-to-evaluate-snowflake-cortex-embedding-models-for-enterprise-search) (HackerNoon)
 - More on [DZone](https://dzone.com/users/5620337/akshaysharma1088.html), [HackerNoon](https://hackernoon.com/about/akshaysharma10) and [dev.to](https://dev.to/akshaysharma10)
